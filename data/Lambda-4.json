@@ -1,0 +1,8 @@
+{
+  "contest": 265,
+  "handle": "Lambda",
+  "risk": "2",
+  "title": "Guardian can brick SavingsVest contract accidentally",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2023-07-angle-mitigation-findings/issues/4"
+}
